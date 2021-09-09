@@ -1,16 +1,31 @@
 # training-flask
-just basic example of fullstack python 
 
-Model   View                Controller
-schema  visual components   brains of our project
+just basic example of fullstack python
 
-static webapp   | dynamic webapp 
+Model View Controller
+schema visual components brains of our project
+
+static webapp | dynamic webapp
 
 <!-- 1. basic boiler plate code -->
 <!-- 2. hello world program -->
-3. templates 
+
+3. templates
 4. routes blueprint
 5. mongodb connection
-6. secure JWT 
+6. secure JWT
 7. dockerize
 <!-- Deepak is here -->
+
+sidenav, topheder, footer
+| | |
+main.html
+|
+extend
+|
+dashborad, view, profile
+
+conditions, forloop
+
+routing
+database connection
